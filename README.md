@@ -1,0 +1,1 @@
+Flask application helps you to store information about books in library
